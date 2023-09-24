@@ -39,5 +39,5 @@ py -3.10 -m venv D:\..\stable-diffusion-webui\venv
 ```
 If no models are downloaded and placed inside the \models\Stable-Diffusion folder after the .bat file above is launched, it will automatically download v1-5-pruned-emaonly.safetensors.
 
-Download more models from [h](https://huggingface.co/)https://huggingface.co/ and put them (.ckpt or .safetensors files) in the \stable-diffusion-webui\models\Stable-diffusion directory.
+Download more models from (https://huggingface.co/)https://huggingface.co/ and put them (.ckpt or .safetensors files) in the \stable-diffusion-webui\models\Stable-diffusion directory.
 
